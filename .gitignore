@@ -1,4 +1,12 @@
+
+# Adding config.py file.
 config.py
+
+# Adding additional practice files.
+API_practice.ipynb
+random_numbers.ipynb
+try-except.ipynb
+JSON_practice.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
