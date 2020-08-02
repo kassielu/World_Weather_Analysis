@@ -8,7 +8,7 @@ In this project we're helping a top travel technology company, called PlanMyTrip
 - Data Sources: cities.csv, worldcities.csv, WeatherPy_vacation.csv, WeatherPy_Database.csv
 - Software: Python 3.7.6, Anaconda 4.8.3, Jupyter Notebook 6.0.3, GMaps, Google Places API, OpenWeatherMap API
 
-##Results
+## Results
 The analysis of the initial weather data shows the following:
 - For cities closer to the equator, 0° latitude, the temperatures become warmer and cities further from the equator the temperatures become cooler. Refer to [City Latitude vs. Max Temperature](Fig1.png) for data supporting this.
 - The percentage humidity in each cities are unpredictable due to changing weather patterns that can increase or decrease percent humidity. Refer to [City Latitude vs. Humidity](Fig2.png) for data supporting this.
